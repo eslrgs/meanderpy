@@ -1,3 +1,5 @@
+Binder link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eslrgs/meanderpy.git/master)
+
 <img src="https://github.com/zsylvester/meanderpy/blob/master/meanderpy_logo.svg" width="300">
 
 ## Description
