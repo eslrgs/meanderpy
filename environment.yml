@@ -5,5 +5,4 @@ dependencies:
   - pip
   - pip:
     - meanderpy
-    - imp
   
