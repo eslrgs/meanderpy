@@ -1,0 +1,7 @@
+name: field
+dependencies:
+  - numpy
+  - matplotlib
+  - meanderpy
+  - imp
+  
